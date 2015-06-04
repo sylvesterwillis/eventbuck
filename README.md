@@ -5,4 +5,4 @@ This application should use the [Eventbrite API](http://developer.eventbrite.com
 - [Eventbrite Event Attendees](https://developer.eventbrite.com/docs/event-attendees/)
 - [Sample Hatchbuck New Product Request](http://pastebin.com/h25jwnaU)
 
-The application should run on a standard LAMP or Node.js stack on Digital Ocean.
+The application should run on a standard LAMP or Node.js stack on Digital Ocean or AWS.
